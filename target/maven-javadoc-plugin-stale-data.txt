@@ -1,0 +1,68 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/kianf/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar;C:/Users/kianf/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/kianf/IdeaProjects/project/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kianf/IdeaProjects/project/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'project 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/kianf/IdeaProjects/project/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'project 1.0-SNAPSHOT API'
+control
+model
+view
+'C:/Users/kianf/IdeaProjects/project/src/main/java/control/Background.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/Main.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/model/Character.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/model/Enemy.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/model/Player.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/model/Sound.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/model/Tiles.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/view/Board.java'
+'C:/Users/kianf/IdeaProjects/project/src/main/java/view/Game.java'
+C:\Users\kianf\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar = 1637978626307
+C:\Users\kianf\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1636098001657
+C:\Users\kianf\IdeaProjects\project\src\main\java\Main.java = 1639186840567
+C:\Users\kianf\IdeaProjects\project\src\main\java = 1639186840567
+C:\Users\kianf\IdeaProjects\project\target\apidocs\allclasses-index.html = 1651294043589
+C:\Users\kianf\IdeaProjects\project\target\apidocs\allpackages-index.html = 1651294043589
+C:\Users\kianf\IdeaProjects\project\target\apidocs\constant-values.html = 1651294043480
+C:\Users\kianf\IdeaProjects\project\target\apidocs\element-list = 1651294043417
+C:\Users\kianf\IdeaProjects\project\target\apidocs\help-doc.html = 1651294043651
+C:\Users\kianf\IdeaProjects\project\target\apidocs\index-all.html = 1651294043636
+C:\Users\kianf\IdeaProjects\project\target\apidocs\index.html = 1651294043558
+C:\Users\kianf\IdeaProjects\project\target\apidocs\jquery-ui.overrides.css = 1651294043698
+C:\Users\kianf\IdeaProjects\project\target\apidocs\Main.html = 1651294043386
+C:\Users\kianf\IdeaProjects\project\target\apidocs\member-search-index.js = 1651294043620
+C:\Users\kianf\IdeaProjects\project\target\apidocs\module-search-index.js = 1651294043589
+C:\Users\kianf\IdeaProjects\project\target\apidocs\overview-summary.html = 1651294043636
+C:\Users\kianf\IdeaProjects\project\target\apidocs\overview-tree.html = 1651294043558
+C:\Users\kianf\IdeaProjects\project\target\apidocs\package-search-index.js = 1651294043605
+C:\Users\kianf\IdeaProjects\project\target\apidocs\package-summary.html = 1651294043433
+C:\Users\kianf\IdeaProjects\project\target\apidocs\package-tree.html = 1651294043433
+C:\Users\kianf\IdeaProjects\project\target\apidocs\package-use.html = 1651294043542
+C:\Users\kianf\IdeaProjects\project\target\apidocs\script.js = 1651294043651
+C:\Users\kianf\IdeaProjects\project\target\apidocs\search.js = 1651294043651
+C:\Users\kianf\IdeaProjects\project\target\apidocs\serialized-form.html = 1651294043495
+C:\Users\kianf\IdeaProjects\project\target\apidocs\stylesheet.css = 1651294043651
+C:\Users\kianf\IdeaProjects\project\target\apidocs\tag-search-index.js = 1651294043620
+C:\Users\kianf\IdeaProjects\project\target\apidocs\type-search-index.js = 1651294043605
